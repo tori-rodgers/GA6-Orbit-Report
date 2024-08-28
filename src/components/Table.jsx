@@ -1,4 +1,7 @@
+import classes from './styling.css';
+
 const Table = ({ sat }) => {
+
   return (
     <table>
     <thead>
