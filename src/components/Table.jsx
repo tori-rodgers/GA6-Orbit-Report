@@ -8,7 +8,7 @@ const Table = ({ sat }) => {
       <td>{sat.launchDate}</td>
       <td>{sat.operational === true ? "Active" : "Inactive"}</td>
     </tr>
-  );
+  ); 
 
   return (
     <table>

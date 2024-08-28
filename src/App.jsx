@@ -13,7 +13,7 @@ function App() {
       return newSatDisplay.orbitType === currentType;
     });
     setSat(displaySats)
-  }
+  } 
   return (
     <div>
       <Banner />
